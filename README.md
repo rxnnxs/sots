@@ -3,6 +3,7 @@ sword of the stars mods
 
 um diese mods nutzen zu können muss man die ini um die mods erweitern. dazu ist die beispiel ini da.
 die gob dateien kann man mit 7-zip öffnen und ganz leicht die bilder und andere dateien austauschen.
+Nachtrag: gob Dateien sind zip Dateien. EInfach gob in zip umbenennen - Daten ändern und wieder in gob umbenennen.
 
 als erstes hat mich die animierte auswahl des sternes welcher aktiv ist gestört.
 
