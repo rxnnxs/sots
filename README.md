@@ -16,6 +16,8 @@ dann ist da noch das comichafte design das ein wenig nervt.
 sobald ich etwas ändere, lade ich es hier hoch.
 auch für mich ist es unter den pcs die ich nutze einfacher, dies hier hochzuladen und bei bedarf dann auf den rechner zu laden, bei dem die dateien nicht aktuell sind.
 
+um das intro von paradox zu entfernen, im orner movies die datei lhintro.bik umbenennen sodass das programm die datei nicht findet.
+
 ------
 
 In order to use these mods you have to expand the ini to include the mods.  That's what the example ini is for.
