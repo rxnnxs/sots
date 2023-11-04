@@ -1,6 +1,9 @@
 # sots
 sword of the stars mods
 
+watch video to see the graphical changes here:
+https://youtu.be/Rp0cvOnUUmg
+
 um diese mods nutzen zu können muss man die ini um die mods erweitern. dazu ist die beispiel ini da.
 die gob dateien kann man mit 7-zip öffnen und ganz leicht die bilder und andere dateien austauschen.
 
